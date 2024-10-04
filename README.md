@@ -1,4 +1,4 @@
-# Digital Marketing Internship Studio
+# Digital Marketingm Internship at Internship Studio
 
 This repository details the strategies and tools I utilized during my internship at Internship Studio (July 2024 - August 2024), where I managed Facebook ad campaigns and collaborated on content creation to enhance brand visibility.
 
